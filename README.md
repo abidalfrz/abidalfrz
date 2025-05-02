@@ -20,5 +20,10 @@ I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI*
 
 ### 📫 Let’s connect:
 - Email: [abidalfaridzi18@gmail.com]
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammadabidbaihaqialfaridzi) 
+### 📫 Contact
+<a href="https://www.linkedin.com/in/username" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>  
+Email: your@email.com
+
 

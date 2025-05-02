@@ -19,11 +19,8 @@ I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI*
 - Deepen expertise in deep learning and AI applications
 
 ### 📫 Let’s connect:
-- Email: [abidalfaridzi18@gmail.com]
-### 📫 Contact
-<a href="https://www.linkedin.com/in/username" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>  
-Email: your@email.com
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align: middle; margin-right: 8px;">
+[https://www.linkedin.com/in/username](https://www.linkedin.com/in/username)
+
 
 

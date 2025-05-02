@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammad Abid Baihaqi Al Faridzi
+# 👋 Hello, I'm abidalfrz
 
 I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI**. Right now, I'm exploring, building, and learning.
 

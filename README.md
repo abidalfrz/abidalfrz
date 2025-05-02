@@ -21,5 +21,12 @@ I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI*
 ### 📫 Let’s connect:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;"> [Muhammad Abid Baihaqi Al Faridzi](https://www.linkedin.com/in/muhammadabidbaihaqialfaridzi)
 
+<br>
+
+<a href="https://www.instagram.com/abidalfrzi" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;">
+  [abidalfrzi](https://www.instagram.com/abidalfrzi)
+</a>
+
 
 

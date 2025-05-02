@@ -24,7 +24,7 @@ I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI*
 <br>
 
 <a href="https://www.instagram.com/abidalfrzi" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="20" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="20" style="vertical-align: middle; margin-right: 8px;">
   [abidalfrzi](https://www.instagram.com/abidalfrzi)
 </a>
 

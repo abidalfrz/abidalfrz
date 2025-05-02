@@ -19,8 +19,7 @@ I have passion in the fieds of **Data Science**, **Machine Learning**, and **AI*
 - Deepen expertise in deep learning and AI applications
 
 ### 📫 Let’s connect:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align: middle; margin-right: 8px;">
-[https://www.linkedin.com/in/username](https://www.linkedin.com/in/username)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="vertical-align: middle; margin-right: 8px;"> [!LinkedIn](https://www.linkedin.com/in/muhammadabidbaihaqialfaridzi)
 
 
 

@@ -36,3 +36,10 @@ I am passionate about leveraging data to solve real-world problems. Currently ex
 
 ---
 
+<p align="center">  
+    <a href="https://github.com/anuraghazra/github-readme-stats">  
+	    <img alt="abidalfrz's Github Stats" src="https://github-readme-stats-seven-xi-86.vercel.app/api?username=abidalfrz&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&t=<timestamp>" height="192px"/>  
+    </a>  
+</p>
+
+

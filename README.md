@@ -36,10 +36,3 @@ I am passionate about leveraging data to solve real-world problems. Currently ex
 
 ---
 
-<div align="center">
-
-[![Abidalfrz's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidalfrz&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidalfrz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-

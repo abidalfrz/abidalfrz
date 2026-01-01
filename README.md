@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm abidalfrz!
 
-> *Aspiring Machine Learning & AI Researcher*
+> *Aspiring Machine Learning & AI Engineer*
 
 I am passionate about leveraging data to solve real-world problems. Currently exploring the depths of **Machine Learning** and building intelligent systems.
 

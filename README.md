@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm abidalfrz!
+# Hi there, I'm abidalfrz!
 
 > *Aspiring Machine Learning & AI Engineer*
 
@@ -6,7 +6,7 @@ I am passionate about leveraging data to solve real-world problems. Currently ex
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
 
@@ -30,12 +30,12 @@ I am passionate about leveraging data to solve real-world problems. Currently ex
 
 ---
 
-### 🔭 What I'm working on
-- 🧠 Building end-to-end **Machine Learning** pipelines.
-- 📊 Analyzing complex datasets to derive actionable insights.
-- 🚀 Continuously learning advancements in **Computer Vision** and **Natural Language Processing**.
+### What I'm working on
+- Building end-to-end **Machine Learning** pipelines.
+- Analyzing complex datasets to derive actionable insights.
+- Continuously learning advancements in **Computer Vision** and **Natural Language Processing**.
 
-### 🎯 Goals
+### Goals
 - Build a robust portfolio of ML/DS projects.
 - Bring impact to the society through AI solution.
 - Contribute to open-source data science projects.

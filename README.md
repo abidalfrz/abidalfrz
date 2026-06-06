@@ -1,4 +1,4 @@
-# Hi there, I'm abidalfrz!
+# Hi there, I'm abidalfrz!👋
 
 > *Aspiring Machine Learning & AI Engineer*
 
